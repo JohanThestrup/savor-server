@@ -2,30 +2,7 @@
 
 ## Description
 
-Database and server for Savor App to retrieve recipe and user data.
-
-## Getting Started
-
-### Installing
-
-```
-npm i
-```
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Database and server for Savor App to retrieve and create recipe and user data.
 
 ## Authors
 
